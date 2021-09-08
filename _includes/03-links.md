@@ -1,1 +1,1 @@
-[Instagram Profile] (https://www.instagram.com/raj.grewal04/)
+[Instagram Profile](https://www.instagram.com/raj.grewal04/)
